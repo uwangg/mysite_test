@@ -34,3 +34,8 @@ div#footer		{ background:#515151; color: #FFF }
 div#footer p	{ margin:0;padding:5px 10px }
 
 
+#header h1 a:hover { color:#79B30B; text-decoration:none  }
+#header h1 a:link { color:#79B30B; text-decoration:none  }
+#header h1 a:visited { color:#79B30B; text-decoration:none  }
+#header h1 a:active { color:#79B30B; text-decoration:none  }
+
